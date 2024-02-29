@@ -174,7 +174,7 @@ def on_translate():
             result_text.insert("end", f"Error: Invalid {sequence_type} sequence.")
 
 app = tk.Tk()
-app.title("FA20-BSI-064| SUNAIL AHMAD")
+app.title("FA20-TSU-777| JOSHUA BENSON")
 # app.geometry("800x600")
 app.configure(bg="skyblue")
 app.minsize(height=700,width=700)
